@@ -1,4 +1,4 @@
-# Python Dictionary Attack Example
+# Password Dictionary Attack Example
 
 The password_dictionary_creator.py script creates a list of possible password combinations based on a list of keywords it is provided. In other words, a personalized dictionary of a target.
 
@@ -12,7 +12,7 @@ The password_dictionary_creator.py script creates a list of possible password co
 
 
 ## What I Learned From This Project
-This script is a great demonstration of how easily passwords can be guessed and generated when people use weak passwords containing personal information/references.
+This script is a great demonstration of how easily passwords can be guessed and generated when people use weak passwords containing personal information/references. This was a project I created for a Network Security class.
 
 I had a volunteer be the "target" in this scenario. I created a keyword file based on information I know about this volunteer and, using this script, was able to successfully guess three of their passwords.
 
